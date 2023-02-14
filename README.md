@@ -63,3 +63,19 @@
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
+
+### ⚙️ GitHub Analytics
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=kisyok&show_icons=true&theme=react">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisyok&layout=compact&theme=react&langs_count=8">
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kisyok&theme=dark)](https://git.io/streak-stats)
+
+### 🤝🏻 Get in Touch
+
+<p>
+<a href="https://linkedin.com/in/kisyokindran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:kisoindran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
