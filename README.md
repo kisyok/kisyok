@@ -1,5 +1,6 @@
-<h1 align="center"><b>Hello people, it's Kisyok here! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkisyok&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkisyok)
 
+<h1 align="center"><b>Hello people, it's Kisyok here! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Full-Stack+Developer;A+thirsty+learner"></a>
 </p>
@@ -9,7 +10,6 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 160px></picture>
 
 <br>
-
 
 - 🎓 Software Engineering student from Universiti of Malaya 
 - 💡 Love to explore new technologies and frameworks
