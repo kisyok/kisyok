@@ -34,8 +34,6 @@
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 </p>
 
-<!-- <img src=""> -->
-
 **Web Frameworks:**
 <p>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
@@ -45,6 +43,12 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+</p>
+
+**Web Development Stacks:**
+<p>
+<img src="https://img.shields.io/badge/MEVN-35495E?style=for-the-badge">
+<img src="https://img.shields.io/badge/MERN-43853D?style=for-the-badge">
 </p>
 
 **Machine Learning:**
@@ -57,6 +61,7 @@
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 **DevOps and Cloud:**
