@@ -15,7 +15,7 @@
 - 💡 Love to explore new technologies and frameworks
 - 💻 Completed Final Year Project (FYP) titled 'Teledentistry System' that provides all important branches 
       of teledentistry such as teletriage, telediagnosis, telecommunication and virtual appointment.
-- ⚡ Love to learn new things, currently learning Wordpress and Flutter
+- ⚡ Love to learn new things, currently learning Angular and Flutter
 
 <br> 
 
