@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full-Stack+Developer;A+thirsty+learner"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0zc200Z3gzbTJqeW41bjJsNGkwbnF0dzN1YmZnN3NxNWJrYWV5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MZS5QISqxSxlsuzTtt/giphy.gif" width = 50px></picture> **About me**
 
 <br>
 
